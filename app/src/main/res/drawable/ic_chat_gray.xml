@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="512.0dip" android:width="512.0dip" android:autoMirrored="true" android:viewportWidth="500.0" android:viewportHeight="500.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/divider" android:pathData="M46.9,431.6c-2.8,0 -5.5,-1.3 -7.2,-3.5c-3.3,-4.3 -1.8,-10.1 -1.3,-12l15.6,-59.7c0.2,-0.7 0.1,-1.2 0,-1.3c-0.1,-0.1 -0.4,-0.3 -1.2,-0.3H24.8c-10.9,0 -19.7,-8.8 -19.7,-19.7V88.2c0,-10.9 8.8,-19.7 19.7,-19.7h449.1c10.9,0 19.7,8.8 19.7,19.7v246.9c0,10.9 -8.8,19.7 -19.7,19.7H132.7c-4.3,0 -11.2,3 -14.2,6.1L56.9,426.3C54.7,428.6 51.3,431.6 46.9,431.6zM24.8,84.3c-2.1,0 -3.9,1.8 -3.9,3.9v246.9c0,2.1 1.8,3.9 3.9,3.9h28c5.6,0 10.6,2.3 13.7,6.4c3.2,4.1 4.2,9.5 2.7,14.9l-10.8,41.3l48.6,-51.6c6,-6.3 17,-11.1 25.7,-11.1h341.2c2.1,0 3.9,-1.8 3.9,-3.9V88.2c0,-2.1 -1.8,-3.9 -3.9,-3.9H24.8z" />
+    <path android:fillColor="@color/divider" android:pathData="M140.2,214.9m-38.1,0a38.1,38.1 0,1 1,76.2 0a38.1,38.1 0,1 1,-76.2 0" />
+    <path android:fillColor="@color/divider" android:pathData="M254.9,214.9m-38.1,0a38.1,38.1 0,1 1,76.2 0a38.1,38.1 0,1 1,-76.2 0" />
+    <path android:fillColor="@color/divider" android:pathData="M370.4,214.9m-38.1,0a38.1,38.1 0,1 1,76.2 0a38.1,38.1 0,1 1,-76.2 0" />
+</vector>

@@ -1,0 +1,34 @@
+com.isseiaoki.simplecropview
+attr scv_animation_duration
+attr scv_animation_enabled
+attr scv_background_color
+attr scv_crop_enabled
+attr scv_crop_mode
+attr scv_frame_color
+attr scv_frame_stroke_weight
+attr scv_guide_color
+attr scv_guide_show_mode
+attr scv_guide_stroke_weight
+attr scv_handle_color
+attr scv_handle_shadow_enabled
+attr scv_handle_show_mode
+attr scv_handle_size
+attr scv_img_src
+attr scv_initial_frame_scale
+attr scv_min_frame_size
+attr scv_overlay_color
+attr scv_touch_padding
+id circle
+id circle_square
+id custom
+id fit_image
+id free
+id not_show
+id ratio_16_9
+id ratio_3_4
+id ratio_4_3
+id ratio_9_16
+id show_always
+id show_on_touch
+id square
+styleable scv_CropImageView scv_animation_duration scv_animation_enabled scv_background_color scv_crop_enabled scv_crop_mode scv_frame_color scv_frame_stroke_weight scv_guide_color scv_guide_show_mode scv_guide_stroke_weight scv_handle_color scv_handle_shadow_enabled scv_handle_show_mode scv_handle_size scv_img_src scv_initial_frame_scale scv_min_frame_size scv_overlay_color scv_touch_padding

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#004066</color>
+    <color name="colorPrimaryDark">#004066</color>
+    <color name="colorAccent">#00A45B</color>
+    <color name="colorAccent_hide">#8000A45B</color>
+    <color name="primary_hide">#4D004066</color>
+
+    <color name="main_text">#2B2B2B</color>
+    <color name="divider">#A0A0A0</color>
+    <color name="light_gray">#E4E4E4</color>
+    <color name="white_hide">#A6FFFFFF</color>
+    <color name="gray_hide">#9AE4E4E4</color>
+    <color name="errorText">#CF0E0E</color>
+    <color name="yellow_marker">#FFC400</color>
+    <color name="message_color">#ff000000</color>
+    <color name="green">@color/colorAccent</color>
+
+    <color name="paypal">#022269</color>
+
+    <color name="yellow_hide">#80FFC400</color>
+
+    <!--    <color name="colorPrimary">#fffd3e53</color>-->
+<!--    <color name="colorPrimaryDark">#ffff364c</color>-->
+<!--    <color name="colorAccent">@color/colorPrimary</color>-->
+<!--    <color name="primary_hide">#68FD3E53</color>-->
+
+<!--    <color name="main_text">#2B2B2B</color>-->
+<!--    <color name="divider">#A0A0A0</color>-->
+<!--    <color name="light_gray">#E4E4E4</color>-->
+<!--    <color name="white_hide">#A6FFFFFF</color>-->
+<!--    <color name="gray_hide">#9AE4E4E4</color>-->
+<!--    <color name="errorText">#ffcc0000</color>-->
+<!--    <color name="message_color">#ff000000</color>-->
+<!--    <color name="green">#4CAF50</color>-->
+
+<!--    <color name="paypal">#022269</color>-->
+
+</resources>

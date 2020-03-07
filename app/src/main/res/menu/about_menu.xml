@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto">
+
+	<item android:id="@+id/aboutMapMI"
+		android:title="@string/title_activity_maps"
+		android:visible="false"
+		android:icon="@drawable/ic_map"
+		app:showAsAction="always"/>
+
+	<item android:id="@+id/aboutMI"
+		android:title="@string/about" />
+
+	<item android:id="@+id/contactUsMI"
+		android:title="@string/contact_us" />
+
+	<item android:id="@+id/countryCurrencyMI"
+		android:visible="false"
+		android:title="@string/country_currency" />
+
+</menu>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NoCropper</string>
+    <declare-styleable name="nocropper__CropperView">
+        <attr format="color" name="nocropper__grid_color"/>
+        <attr format="dimension" name="nocropper__grid_thickness"/>
+        <attr format="float" name="nocropper__grid_opacity"/>
+        <attr format="color" name="nocropper__padding_color"/>
+        <attr format="boolean" name="nocropper__add_padding_to_make_square"/>
+        <attr format="boolean" name="nocropper__fit_to_center"/>
+    </declare-styleable>
+</resources>
